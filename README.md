@@ -11,6 +11,9 @@ How can you donate?
 It is very simple by installing the script without editing anything you are minning monero for me :) Or you can donate by giving me cryptocurrency.
 
 BTC: 17x9zC5voBnnYcmbNCKJYsePuF8Rwh39Lp
+<br>
 LTC: LVmdVdfYVeuqt36Nuo5kUwZKmA25Wxj8q8
+<br>
 ETH: 0x568C6C3AEc245a08EB6c17AABF8265dC87669B60
+<br>
 XMR: 48xoAqhD1QaZMTr2KYi8VpQWQkQ7z1y7uj6rSvQWBBLe88YRnEWqAjxNgwUnRAhzheYtBUhgws6JGHsq67WtjY4q7nEBKi9
